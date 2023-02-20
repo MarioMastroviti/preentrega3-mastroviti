@@ -1,0 +1,25 @@
+@import "../base/mixin";
+@import "../base/variables";
+
+.titulos-env{
+    display: flex;
+    background: rgb(231, 187, 150);
+    justify-content: space-around;
+          
+       
+}
+
+.titulos-env-hijo{
+    text-align: center;
+  
+}
+
+.parrafos{
+    padding: 1rem;
+}
+ 
+ .mapa-ubi{
+    display: flex;
+    justify-content: center;
+    margin: 2rem;
+ }
